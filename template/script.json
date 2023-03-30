@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": [
+      "npx",
+      "jest",
+      "index.spec.ts"
+    ]
+  }
+}
